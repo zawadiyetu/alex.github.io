@@ -1,0 +1,19 @@
+html ,
+     
+    body {
+
+        background-color: greenyellow;
+        font-size: xx-large;
+        color: rgb(27, 9, 0);
+        font-weight: 300;
+        font: 100;
+        background-image: image(Minetest photo);
+        
+
+}
+.images {
+    margin:auto;
+    width: 700px; height: 500px;
+    border-radius: 100px;
+    background-image: image(Minetest);
+}
