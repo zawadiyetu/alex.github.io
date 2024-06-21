@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="apple_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.814592"
+     inkscape:cx="767.86907"
+     inkscape:cy="260.86679"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 103.86343,93.159172 c -10.904632,1.61e-4 -19.744543,11.367298 -19.744534,25.389668 0.01418,1.02934 0.07694,2.05677 0.188103,3.07629 -0.111158,1.01938 -0.173916,2.0466 -0.188103,3.07579 -9e-6,14.02237 8.839906,25.39002 19.744534,25.39018 3.48829,-0.0253 6.90944,-1.23838 9.91464,-3.51607 3.00521,2.27769 6.42583,3.49077 9.91412,3.51607 8.69549,5e-5 16.07287,-7.23114 18.70739,-17.26975 -0.639,-0.29796 -1.2527,-0.71542 -1.8278,-1.24333 -2.5433,-2.30396 -4.11708,-6.54208 -4.1367,-11.13989 0.0106,-4.09627 1.25718,-7.94412 3.36259,-10.37921 0.61174,-0.696 1.28148,-1.25777 1.99057,-1.66967 -3.04801,-8.963829 -10.00138,-15.230132 -18.09605,-15.230078 -3.46965,0.02477 -6.87293,1.224394 -9.8671,3.478857 -3.02181,-2.275107 -6.46,-3.475474 -9.96166,-3.478857 z"
+       style="fill:#800080;stroke:#000000;stroke-width:0.264583"
+       id="path16" />
+    <path
+       d="m 125.58222,70.455435 a 19.329515,14.636572 0 0 0 -14.38103,14.10663 19.329515,14.636572 0 0 0 3.46387,8.32197 17.479027,14.636572 0 0 0 13.88287,-14.28285 17.479027,14.636572 0 0 0 -2.96571,-8.14575 z"
+       style="fill:#808000;stroke:#000000;stroke-width:0.264583"
+       id="path18" />
+  </g>
+</svg>
